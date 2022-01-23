@@ -1,5 +1,5 @@
 
-# project
+# My Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,10 +13,10 @@
 
 # Description
 
-my first readme
+readme file
     
 ## Usage
-to generate new readme
+creating readme file
     
 ## Installation
 through github
@@ -25,7 +25,7 @@ through github
 richa anand
 
 ## Question
-made simple to understand
+simple to understand readme
 
 ## License
 license is under the [mit] {https://choosealicense.com/licenses/mit/#}license
