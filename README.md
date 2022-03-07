@@ -1,5 +1,5 @@
 
-# My Project
+# y
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,19 +13,19 @@
 
 # Description
 
-readme file
+y
     
 ## Usage
-creating readme file
+y
     
 ## Installation
-through github
+y
                         
 ## Contributing
-richa anand
+y
 
 ## Question
-simple to understand readme
+y
 
 ## License
 license is under the [mit] {https://choosealicense.com/licenses/mit/#}license
